@@ -24,7 +24,7 @@ Put LEGO BOOST motor on top:
 
 ![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-3.jpg)
 
-Create hammer and attach it to the LEGO BOOST motor:
+Assemble the hammer out of LEGOs and attach it to the LEGO BOOST motor:
 
 ![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-4.jpg)
 
@@ -63,4 +63,4 @@ Use WakeUpBot to:
 
 ## Final Words
 
-Use it at your own risk! ;)
+Use it at your own risk! 😉
