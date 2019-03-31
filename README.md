@@ -47,7 +47,7 @@ Preview of conversation with the bot:
 
 ![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-preview.gif)
 
-Feel free to check out following Youtube video to see helmet in action:
+Feel free to check out following Youtube video to see helmet in action (click on image to open Youtube):
 
 [![Youtube Video](https://img.youtube.com/vi/vgFAblJFa_w/0.jpg)](https://www.youtube.com/watch?v=vgFAblJFa_w "Youtube Video of Bot in Action")
 
