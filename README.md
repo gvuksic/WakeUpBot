@@ -8,7 +8,7 @@ write some nice description here
 
 starting the bot
 
-![](assets/bot-preview.gif)
+![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-preview.gif)
 
 youtube video of bot in action
 
