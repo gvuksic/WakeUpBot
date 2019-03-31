@@ -14,19 +14,19 @@ Each team member should have helmet with a hammer on his head. It is easy to ass
 
 Set up base out of LEGOs, it should fit your head:
 
-![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-1.png)
+![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-1.jpg)
 
 Add holder for LEGO BOOST motor:
 
-![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-2.png)
+![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-2.jpg)
 
 Put LEGO BOOST motor on top:
 
-![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-3.png)
+![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-3.jpg)
 
 Create hammer and attach it to the LEGO BOOST motor:
 
-![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-4.png)
+![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-4.jpg)
 
 
 ## Architecture overview
