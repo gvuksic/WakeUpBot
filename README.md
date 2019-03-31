@@ -43,7 +43,7 @@ Bot can be started with the following command:
 /WakeUp @SlackUsername
 ```
 
-Preview of conversation with bot:
+Preview of conversation with the bot:
 
 ![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/bot-preview.gif)
 
