@@ -6,7 +6,7 @@ This project was built for the [Junction Online Challenge](https://www.reddit.co
 
 ## Description
 
-Are you looking for a Slack bot that will motivate your team and help them focus? Are you looking for a Slack bot that will bring fun to your whole office? Was Whack-A-Mole one of your favourite games? If answer is yes to at least one of those questions this is a bot for you!
+Are you looking for a Slack bot that will motivate your team and help them focus? Are you looking for a Slack bot that will bring fun to your whole office? Was Whack-A-Mole one of your favourite games? If answer is yes to at least one of those questions, this is a bot for you and your team!
 
 In order to use this bot you'll need a bit of hardware setup, full details about how it works and how to set it up are below.
 
@@ -37,7 +37,7 @@ Application is built on AWS technologies, it is fully scalable, reliable and sec
 
 ## Bot Preview
 
-Bot can be started with following command:
+Bot can be started with the following command:
 
 ```
 /WakeUp @SlackUsername
@@ -51,3 +51,16 @@ Feel free to check out following Youtube video to see helmet in action:
 
 [![Youtube Video](https://img.youtube.com/vi/vgFAblJFa_w/0.jpg)](https://www.youtube.com/watch?v=vgFAblJFa_w "Youtube Video of Bot in Action")
 
+## UseCases
+
+Use WakeUpBot to:
+ - wake up specific member of your team; with making them focus more they'll make more work done!
+ - have fun with your colleagues at work
+ - motivate your team members
+ - punish your colleagues for typing bad code
+ - easily reach team member that is listening music on headphones
+ - and more!
+
+## Final Words
+
+Use it at your own risk! ;)
