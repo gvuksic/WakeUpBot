@@ -35,7 +35,7 @@ Assemble the hammer out of LEGOs and attach it to the LEGO BOOST motor:
 
 Application is built on AWS technologies, it is fully scalable, reliable and secure. Slack Bot via command invokes Lambda via API Gateway and store message into DynamoDB database. iOS application, which is connected to the LEGO BOOST hub, periodically checks is there some new message and starts the motor on the LEGO BOOST. Hammer moves in one direction, than goes into oposite direction to the starting position, afterwards complete message is sent to the database.
 
-## Bot Preview
+## Bot Preview (See it in action)
 
 Bot can be started with the following command:
 
@@ -51,7 +51,7 @@ Feel free to check out following Youtube video to see helmet in action:
 
 [![Youtube Video](https://img.youtube.com/vi/vgFAblJFa_w/0.jpg)](https://www.youtube.com/watch?v=vgFAblJFa_w "Youtube Video of Bot in Action")
 
-## UseCases
+## Use Cases
 
 Use WakeUpBot to:
  - wake up specific member of your team; with making them focus more they'll make more work done!
