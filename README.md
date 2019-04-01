@@ -2,7 +2,7 @@
 
 ## About
 
-This project was built for the [Junction Online Challenge](https://www.reddit.com/r/JunctionCommunity/comments/b7csl5/march_online_challenge_bots_bots_bots/). Goal of the challenge was to build a bot that should embed unnecessarily-extreme stupidity.
+This project was built for the [Junction Online Challenge](https://www.reddit.com/r/JunctionCommunity/comments/b7csl5/march_online_challenge_bots_bots_bots/). Goal of the challenge was to build a bot in 24 hours that should embed unnecessarily-extreme stupidity.
 
 ## Description
 
@@ -64,3 +64,13 @@ Use WakeUpBot to:
 ## Final Words
 
 Use it at your own risk! 😉
+
+## 2nd Place
+
+I'm happy this project was recognised by Junction judges and it won 2nd place. 🏆
+
+Follow Junction community for more online challenges here: [Junction Community](https://www.reddit.com/r/JunctionCommunity/)
+
+Screenshot of their winners announcement:
+
+![](https://github.com/gvuksic/WakeUpBot/blob/master/Assets/2ndplace-Junction.png)
